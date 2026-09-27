@@ -7,6 +7,8 @@ Meu repo de estudo de MongoDB. Comecei depois de uma palestra sobre MongoDB comp
 
 A ideia é ir guardando aqui o que eu aprendo e, mais pra frente, subir projetos usando MongoDB.
 
+> 🇺🇸 **In English:** my MongoDB study repo. I started it after a talk comparing SQL and MongoDB, where I learned CRUD, query filters, indexes and the aggregation pipeline, and earned the **CRUD Operations in MongoDB** badge. Here I keep my notes, `mongosh` examples and, soon, projects built with MongoDB.
+
 ## 🏅 Certificado
 
 **CRUD Operations in MongoDB** (MongoDB, 26/09/2026, 4 horas)
