@@ -11,8 +11,9 @@ A ideia é ir guardando aqui o que eu aprendo e, mais pra frente, subir projetos
 
 ## 🏅 Certificado
 
-**CRUD Operations in MongoDB** (MongoDB, 26/09/2026, 4 horas)
-[Ver no Credly](https://www.credly.com/badges/4d92aacb-0036-44a3-84ad-6a0607da9bbc) · [PDF](certificados/CRUD-Operations-in-MongoDB.pdf)
+**CRUD Operations in MongoDB** (MongoDB University)
+Curso de 4 horas na faculdade em 26/09/2026. Refiz o Skill Check em 29/10/2026 e o certificado saiu com o meu nome completo (ID MDB4f6eswnu3r).
+[Ver no Credly](https://www.credly.com/badges/799efa1b-23fd-47b6-afb2-014512d4d337) · [PDF](certificados/CRUD-Operations-in-MongoDB.pdf)
 
 ## 📂 O que tem aqui
 
@@ -33,6 +34,7 @@ A ideia é ir guardando aqui o que eu aprendo e, mais pra frente, subir projetos
 - [x] `sort`, `limit`, `skip`, `countDocuments`, `explain`
 - [x] Índices simples e compostos
 - [x] Aggregation pipeline: `$match`, `$group`, `$sort`, `$project`, `$lookup`
+- [x] Arrays: busca exata x `$all`, e `$push` / `$addToSet` / `$pull` ([revisão](anotacoes/04-revisao-skill-check.md))
 - [ ] Modelagem de documentos (embutir x referenciar)
 - [ ] MongoDB Atlas
 - [ ] Usar MongoDB com Python (`pymongo`)
